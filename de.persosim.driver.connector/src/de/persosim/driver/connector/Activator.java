@@ -1,7 +1,6 @@
 package de.persosim.driver.connector;
 
 import java.io.IOException;
-import java.net.UnknownHostException;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
